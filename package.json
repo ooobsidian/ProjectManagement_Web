@@ -19,7 +19,7 @@
     "heyui": "^1.13.0",
     "iview": "^3.0.0",
     "normalize.css": "^8.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "vue": "^2.5.2",
     "vue-hot-reload-api": "^2.3.0",
     "vue-router": "^3.0.1",
